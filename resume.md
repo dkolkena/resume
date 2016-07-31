@@ -8,6 +8,7 @@ phone: (801)856-5384
 email: daniel.kolkena@gmail.com
 date: 1 August 2016
 ...
+# Daniel Kolkena
 
 ### Personal summary
 
@@ -53,12 +54,14 @@ date: 1 August 2016
 - Developed and performed QA on component updates
 - Delivered timely org-wide communications on planned downtimes
 - Worked with Operations department and 3rd party support in the event of unplanned downtime to provide timely communications to management
+
 > *Business Systems Analyst*
 - Implemented Knowledge Centered Support and developed and administrated our Knowledge Base
 - Managed the Live Agent Chat and WebEx support tools
 - Performed Salesforce administration
 - Developed and QA'ed routine Salesforce code changes
 - Drove biweekly maintenance releases as Release Manager
+
 > *l1 Support Technician*
 - Supported Home, Pro, OEM, and reseller accounts
 - Troubleshot local and remote backup software and all related technologies
