@@ -22,7 +22,7 @@ date: 1 August 2016
 
 ### Employment
 
-- 2014-present: **Taulia**
+- **Taulia**: 2014-present
 
 > *Site Operations Engineer*
 - Responds to alerts and put out technical fires before they become widespread issues
@@ -38,7 +38,7 @@ date: 1 August 2016
 - Acts as key liaison between App Support and the Customer Support team, leading interdepartmental communication and facilitating process and tool improvements
 - Using Groovy on Grails, MySQL, Git, JIRA, and various other tools and technologies within an Agile framework
 
-- 2013-2014: **EMC**
+- **EMC**: 2013-2014
 
 > *Technical Support Engineer II*
 - Provided global escalation support for EMC’s Atmos product, a massively scalable object-based storage, backup, and SaaS infrastructure
@@ -47,7 +47,7 @@ date: 1 August 2016
 - Selected to deliver dedicated support to a major B2B client for an exabyte-scale cloud buildout
 - Self-taught the Bash shell scripting language; contributed several scripts to the team to automate procedures and improve efficiency
 
-- 2009-2013: **Mozy**
+- **Mozy**: 2009-2013
 
 > *eServices Release Manager*
 - Managed biweekly maintenance releases to the Salesforce environment
@@ -62,7 +62,7 @@ date: 1 August 2016
 - Developed and QA'ed routine Salesforce code changes
 - Drove biweekly maintenance releases as Release Manager
 
-> *l1 Support Technician*
+> *L1 Support Technician*
 - Supported Home, Pro, OEM, and reseller accounts
 - Troubleshot local and remote backup software and all related technologies
 - Wrote significant documentation for the Mozy Salesforce Support Portal and Knowledge Base
