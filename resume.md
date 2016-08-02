@@ -6,18 +6,21 @@ city: Salt Lake City
 postcode: 84106
 phone: (801)856-5384
 email: daniel.kolkena@gmail.com
-date: 1 August 2016
 ...
 # Daniel Kolkena
 
 ### Personal summary
 
-> I'm a technical enthusiast that has a broad range of experience in software, hardware, and networking support as well as support services, system administration, and the development lifecycle. I'm currently studying part-time and working towards a career goal of software development. My greatest joy is in helping people use technology to solve problems and achieve their goals.
+> I'm a technical enthusiast that has a broad range of experience in software, hardware, and networking support as well as support services, system administration, application support, and the development lifecycle. My greatest joy is in helping people use technology to solve problems and achieve their goals.
 
-### Technologies
-- Bash, MySQL
+### Technologies and Tools
+- Linux Administration, Bash, MySQL
+- Git, JIRA, Graylog, New Relic, Graylog, Salesforce
 
 ### Skills
+- Agile
+- KCS (Knowledge Centered Support)
+- Technical Writing
 - Spanish: Professional Working Fluency
 
 ### Employment
@@ -30,13 +33,11 @@ date: 1 August 2016
 - Analyzes performance metrics to diagnose trends and anomalies
 - Contributes to the design and implementation of our monitoring and alerting infrastructure
 - Coordinates rapid response teams to swiftly rectify emergency-level outages
-- Participates in a 24x5 shift or on-call rotation
 
 > *Application Support Engineer*
 - Receives issues from professional services and customer support, performs RCA and prioritizes bugs for the development team
 - Monitors logs and alerting scripts proactively for issues; performs short term database corrections to ensure data availability
 - Acts as key liaison between App Support and the Customer Support team, leading interdepartmental communication and facilitating process and tool improvements
-- Using Groovy on Grails, MySQL, Git, JIRA, and various other tools and technologies within an Agile framework
 
 - **EMC**: 2013-2014
 
