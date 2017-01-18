@@ -1,12 +1,3 @@
----
-title: 'Daniel Kolkena'
-website: null
-street: 3208 S 500 E
-city: Salt Lake City
-postcode: 84106
-phone: (801)856-5384
-email: daniel.kolkena@gmail.com
-...
 # Daniel Kolkena
 
 ### Personal summary
